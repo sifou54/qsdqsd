@@ -1,0 +1,9 @@
+CMD
+
+1. chkdsk /c
+
+2. sfc /scannow
+
+ PowerShell
+
+1. Dism /Online /Cleanup-Image /ScanHealth
